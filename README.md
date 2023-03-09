@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Safin Tamboli</h1>
 <h3 align="center">Data Geek</h3>
-<img align="right" width=400 alt="coding" src="https://www.canva.com/design/DAFcsi9Yk7I/kSCBcSLylIOcj6S51Nbn_g/edit?utm_content=DAFcsi9Yk7I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img align="right" width=400 alt="coding" src="https://www.canva.com/design/DAFcsi9Yk7I/UMDQI694iCcBLTsvtyMIhA/watch?utm_content=DAFcsi9Yk7I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safincoder&label=Profile%20views&color=0e75b6&style=flat" alt="safincoder" /> </p>
 
